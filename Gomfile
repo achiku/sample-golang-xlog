@@ -1,0 +1,2 @@
+gom "github.com/achiku/wbs"
+gom "github.com/rs/xlog"
